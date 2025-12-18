@@ -64,6 +64,7 @@ Dự án được phát triển hoàn toàn bằng **Python 3.x** với các th�
 
 ## 📂 Cấu trúc thư mục
 
+```text
 ChatApp/
 ├── Client/
 │   ├── client_main.py      # File chạy chính của Client
